@@ -1,0 +1,23 @@
+{
+  "name": "react-multilanguage",
+  "version": "1.0.0",
+  "description": "Download: 🔥. 🇺🇸 🇵🇱 🇨🇴 Change different languages in the App you going to design, implement this version in React",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpumpkinpie/react-multilanguage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanpumpkinpie/react-multilanguage/issues"
+  },
+  "homepage": "https://github.com/juanpumpkinpie/react-multilanguage#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
